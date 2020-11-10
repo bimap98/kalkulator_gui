@@ -1,3 +1,6 @@
+<p align="center">
+<img src= "Screenshot/Screenshot_2.jpg">
+
 # Kalkulator GUI with Python
 
 Introduction
